@@ -40,8 +40,6 @@ public class Main2 {
 //			System.out.println("글자가 없음!");
 //		}
 		
-		
-		
 		//제어문도 c언어와 거의 같음
 		//if, if-else, if-else if
 		//switch
